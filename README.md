@@ -7,3 +7,6 @@
 ### git clone https://github.com/ROBOTIS-GIT/ros_tutorials.git
 
 ### rosrun ros_tutorials_topic topic_publisher
+
+### rosrun ros_tutorials_service service_server
+### rosrun ros_tutorials_service service_client 2 3
