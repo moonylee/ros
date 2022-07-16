@@ -6,3 +6,4 @@
 ### source devel/setup.bash
 ### git clone https://github.com/ROBOTIS-GIT/ros_tutorials.git
 
+### rosrun ros_tutorials_topic topic_publisher
