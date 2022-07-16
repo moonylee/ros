@@ -1,4 +1,4 @@
 # ROS
-mkdir catkin_ws
-cd catkin_ws
-mkdir src
+### mkdir catkin_ws
+### cd catkin_ws
+#### mkdir src
