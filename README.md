@@ -20,3 +20,4 @@
 
 ### roslaunch turtlebot3_slam turtlebot3_slam.launch slam_methods:=gmapping
 ### rosrun map_server map_saver -f ~/map
+### roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=/home/user/map.yaml
