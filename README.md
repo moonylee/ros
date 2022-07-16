@@ -12,3 +12,10 @@
 ### rosrun ros_tutorials_service service_client 2 3
 ### roslaunch ros_tutorials_topic union.launch
 ### rqt_graph
+### export TURTLEBOT3_MODEL=burger
+### source devel/setup.bash
+### roslaunch turtlebot3_gazebo turtlebot3_world.launch
+### source devel/setup.bash
+### roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
+
+
