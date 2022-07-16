@@ -4,4 +4,5 @@
 #### mkdir src
 ### catkin_create_pkg ros_tutorials_topic message_generation std_msgs roscpp
 ### source devel/setup.bash
+### git clone https://github.com/ROBOTIS-GIT/ros_tutorials.git
 
