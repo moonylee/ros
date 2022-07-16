@@ -18,4 +18,4 @@
 ### source devel/setup.bash
 ### roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
 
-
+### roslaunch turtlebot3_slam turtlebot3_slam.launch slam_methods:=gmapping
